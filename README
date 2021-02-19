@@ -1,3 +1,10 @@
 This is a ReactJs app built on a NodeJS webserver. 
 The application accesses a bitcoin api and displays the data using chartjs as well as a ticker. 
 The ticker updates every one minute while the chart will only update on page refresh.
+
+Packages used:
+  React
+  Axios
+  Chart.js
+  react-countup
+  react-loader-spinner
